@@ -1,0 +1,4 @@
+*/vendor/**
+/db/MANIFEST
+/db/*.sst
+/db/*.vlog

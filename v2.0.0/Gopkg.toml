@@ -1,0 +1,7 @@
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  name = "github.com/dgraph-io/badger"
+  version = "2.0.0-rc2"
